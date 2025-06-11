@@ -1,7 +1,8 @@
 ### Hey 👋
 
-Hi, I'm Snehil. I am currently:
+Hi, I'm Snehil. I am currently exploring:
 
-- learning about Jupyter's messaging protocols with ØMQ sockets and building custom kernels.
-- exploring the field of DevSecOps, particularly around Linux, Containers, and Security.
-- learning eBPF and WebAssembly.
+- infrastructure around databases, and Postgres-native backends.
+- Jupyter's messaging protocols with ØMQ sockets to build custom kernels.
+- the field of DevSecOps, particularly around Linux, Containers, and Security.
+- eBPF and WebAssembly.
